@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "markdownify": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/home/junlin/project_ai/markdownify-mcp/dist/index.js"]
+    }
+  }
+}
